@@ -16,7 +16,7 @@
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Zedscan/TokenDexList/token/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
+      "logoURI": "https://raw.githubusercontent.com/Zedscan/TokenDexList/main/tokens/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
       "isNative": true
     },
     {
@@ -25,7 +25,7 @@
       "address": "0x5C999E15B71de2bb8e651f0f999FB0Bc321a0DFe",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Zedscan/TokenDexList/token/bsc/0x5C999E15B71de2bb8e651f0f999FB0Bc321a0DFe.png"
+      "logoURI": "https://raw.githubusercontent.com/Zedscan/TokenDexList/main/tokens/bsc/0x5C999E15B71de2bb8e651f0f999FB0Bc321a0DFe.png"
     }
   ]
 }
