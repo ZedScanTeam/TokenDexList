@@ -17,7 +17,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Zedscan/TokenDexList/main/tokens/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
-      "isNative": true
     },
     {
       "name": "ZedDex",
