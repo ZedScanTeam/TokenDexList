@@ -1,4 +1,5 @@
-{
+[
+  {
   "name": "ZedDex Default List",
   "timestamp": "2022-01-26T11:45:09Z",
   "version": {
@@ -36,3 +37,4 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Zedscan/TokenDexList/main/tokens/zedx/0xb78E2642b875928254cF50683D0589ca249f4efc.png"
     },
+[
