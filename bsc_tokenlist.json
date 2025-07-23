@@ -10,6 +10,13 @@
   "logoURI": "https://zeddex.com/logo.png",
   "keywords": ["bnb", "default"],
   "tokens": [
-    
+    {
+      "name": "1ozt",
+      "symbol": "1OZT",
+      "address": "0x9Cac9837155A851e3d08639a40aE5bF18d968cd3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Zedscan/TokenDexList/main/tokens/bsc/0x9Cac9837155A851e3d08639a40aE5bF18d968cd3.png"
+    }
   ]
 }
