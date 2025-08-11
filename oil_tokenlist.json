@@ -1,0 +1,14 @@
+{
+  "name": "ZedDex Default List",
+  "timestamp": "2025-07-23T12:04:00Z",
+  "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://zeddex.com/logo.png",
+  "keywords": ["oil", "default"],
+  "tokens": [
+  ]
+}
